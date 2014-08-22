@@ -13,8 +13,8 @@ import javax.swing.*;
 
 public class Calculador {
     public static int cont=0;
-    static File archivo = new File("C:\\HDT2\\Datos.txt"); //Almacena el archivo en donde se guardaran los datos
-    java.io.File directorio = new File("C:\\HDT2");
+    static File archivo = new File("C:\\HDT4\\Datos.txt"); //Almacena el archivo en donde se guardaran los datos
+    java.io.File directorio = new File("C:\\HDT4");
     public static String data=new String();
     static Stack pila;
     static int result=0;
