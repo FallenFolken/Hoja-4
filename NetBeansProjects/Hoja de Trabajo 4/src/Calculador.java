@@ -1,5 +1,5 @@
 //Clase:.java
-//Lee un documento de texto en la dirección C://HDT2// y calcula el resultado de las operaciones definidas}
+//Lee un documento de texto en la dirección C://HDT4// y calcula el resultado de las operaciones definidas}
 //en el archivo de texto
 //Hecho por:            Kimberly Guzmán      Carnet: 13642 
 //			Erick Saucedo        Carnet: 13167
