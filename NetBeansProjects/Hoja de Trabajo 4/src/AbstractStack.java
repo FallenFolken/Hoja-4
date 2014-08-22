@@ -1,0 +1,15 @@
+/*
+Autor: Kimberly Guzmán      Carnet: 13642 
+       Erick Saucedo        Carnet: 13167
+Seccion: 10
+
+Nombre de archivo: AbstractStack.java 
+Descripcion: clase AbstractStack que 
+*/
+abstract public class AbstractStack<E> implements Stack<E> {
+     public boolean empty()
+   // post: regresa true si el stack esta vacio
+   {
+      return size() == 0;
+   }
+}
